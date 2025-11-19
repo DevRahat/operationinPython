@@ -23,4 +23,7 @@ print(a)
 a/=2
 print(a)
 
+# //= operator in python 
+a//=2
+print(a)
 # %= operator in python 
