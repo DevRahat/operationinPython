@@ -7,7 +7,10 @@ print("I am Rahat Islam, my Motherland is %s" % "Bangladesh")
 
 #string formating 
 name = "Rahat Islam"
-print("My name is:", name)
+print('My name is: %s' %name)
+
+pi=3.1416
+print('The value of pi is: %.2f' %pi)
 
 
 
